@@ -1,0 +1,79 @@
+h1 {
+	text-align: center;
+	margin-top: 50px;
+}
+img {
+	width: 200px;
+	height: 300px;
+}
+.movie {
+	margin-bottom: 20px;
+}
+.none {
+  display: none !important;
+}
+.button {
+	margin: 20px 0;
+	text-align: center;
+}
+#searchMovie {
+	margin: 10px auto;
+	width: 180px;
+}
+#searchActor {
+	margin: 30px auto;
+	width: 180px;
+}
+#loadFile {
+	margin: 30px auto;
+	width: 260px;
+}
+.add {
+	margin: 10px;
+	width: 150px;
+}
+.del {
+	margin: 10px;
+	width: 150px;
+}
+.sort {
+	margin: 10px;
+	width: 150px;
+}
+.form-inline {
+	font-align: center;
+ 	input {
+ 		margin: 10px auto;
+ 	}
+ 	label {
+ 		text-align: center;
+ 		margin: 10px 10px;
+ 	}
+ 	button {
+ 		text-align: center;
+ 		margin: 10px 10px;
+ 	}
+ 	margin: 50px 0;
+
+ 	#title {
+ 		width: 150px;
+ 	}
+ 	#year {
+ 		width: 60px;
+ 	}
+ 	#format {
+ 		width: 60px;
+ 	}
+ 	#stars {
+ 		width: 150px;
+ 	}
+}
+.posterMovie {
+	margin-top: 30px;
+	.nameMovie {
+		font-size: 25px;
+	}
+	.infoMovie {
+		margin-top: 70px;
+	}
+}
